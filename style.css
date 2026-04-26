@@ -1,0 +1,55 @@
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+           background-image:url("../../../../Users/Admin/Desktop/RECEIVED/LTI.jpeg");
+			background-repeat: no-repeat;
+			background-position: center;
+			background-size: cover;
+			   
+        }
+        .login-container {
+            max-width: 900px;
+			padding: 50px;
+            border-radius: 8px;
+            background-color: transparent;
+			align-items: center;
+			text-align: center;
+			
+        }
+.btn{
+	width: 300px;
+	height: 30px;
+	background: teal;
+	border-radius: 4px;
+	font-size: 20px;
+	font: bold;
+	margin-top: 10px;
+	text-shadow: 1;
+	border-radius: 5px;
+	
+}
+.user-input { 
+	margin-bottom: 7px;
+	width: 300px;
+	height: 30px;
+	background: teal;
+	border-color: black;
+	border-width: 5px;
+	border-radius: 10px;
+		
+	
+}
+.pass-input{
+	width: 300px;
+	height: 30px;
+	background: teal;
+	border-color: black;
+	border-width: 5px;
+	border-radius: 10px;
+}
+
+
+
